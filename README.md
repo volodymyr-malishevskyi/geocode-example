@@ -2,7 +2,10 @@
 
 Драфт скрипту який робить геокодування адрес на основі CSV файлу.
 
-[Приклад з геокодованими адресами](addresses_geocoded.csv)
+Приклад з геокодованими адресами:
+
+- [Raw CSV](https://raw.githubusercontent.com/volodymyr-malishevskyi/geocode-example/refs/heads/main/addresses_geocoded.csv)
+- [Tably](https://tably.com/n5trxmbeb1n7212uhiskag1c1i)
 
 ## Запуск
 
